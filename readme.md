@@ -4,8 +4,8 @@ electron-renderer-to-renderer-bridge can helps complete MessagePort access in 3 
 
 ### install
 
-```
-npm install electron-renderer-to-renderer-bridge
+```powershell
+npm install electron-renderer-to-renderer-bridge    
 ```
 
 ### Useage

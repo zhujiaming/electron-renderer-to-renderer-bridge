@@ -13,6 +13,13 @@
   "devDependencies": {
     "electron": "^22.0.0"
   },
+  "keywords": [
+    "electron",
+    "electron tool",
+    "MessagePort",
+    "ipc",
+    "typescript"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/zhujiaming/electron-renderer-to-renderer-bridge.git"

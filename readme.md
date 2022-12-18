@@ -2,6 +2,12 @@
 
 electron-renderer-to-renderer-bridge can helps complete MessagePort access in 3 steps, making it easier to realize communication between independent html windows.
 
+### install
+
+```
+npm install electron-renderer-to-renderer-bridge
+```
+
 ### Useage
 
 ```javascript
